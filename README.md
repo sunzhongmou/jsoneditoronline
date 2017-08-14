@@ -1,5 +1,5 @@
 # JSON Editor Online
-http://jsoneditoronline.org/
+http://www.jsoneditoronline.cn/
 
 
 ### Description
@@ -11,7 +11,7 @@ a code editor.
 
 ### Screenshot
 
-<a href="http://jsoneditoronline.org">
+<a href="http://www.jsoneditoronline.cn">
     <img alt="jsoneditoronline"
         src="https://raw.github.com/josdejong/jsoneditoronline/master/misc/screenshots/jsoneditoronline.png">
 </a>
@@ -33,10 +33,10 @@ a code editor.
 
 ### Getting started
 
-- Web app:    http://jsoneditoronline.org/
+- Web app:    http://www.jsoneditoronline.cn/
 - Chrome app: https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj
 - Wiki:       https://github.com/josdejong/jsoneditoronline/wiki/
-- Downloads:  http://jsoneditoronline.org/downloads/
+- Downloads:  http://www.jsoneditoronline.cn/downloads/
 - Sourcecode: https://github.com/josdejong/jsoneditoronline/
 
 

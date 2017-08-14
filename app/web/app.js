@@ -23,7 +23,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  *
- * Copyright (C) 2011-2013 Jos de Jong, http://jsoneditoronline.org
+ * Copyright (C) 2011-2013 Jos de Jong, http://www.jsoneditoronline.cn
  *
  * @author  Jos de Jong, <wjosdejong@gmail.com>
  * @date    2013-03-08
@@ -83,6 +83,24 @@ app.load = function() {
             "object": {"a": "b", "c": "d", "e": "f"},
             "string": "Hello World"
         };
+
+        function findGetParameter(parameterName) {
+            var result = null,
+              tmp = [];
+            location.search
+              .substr(1)
+              .split("&")
+              .forEach(function (item) {
+                tmp = item.split("=");
+                if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+              });
+            return result;
+        }
+
+        var jsonPara = findGetParameter('data');
+        if(jsonPara){
+            json = JSON.parse(base64.decode(jsonPara));
+        }
 
         // load url if query parameters contains a url
         if (window.QueryParams) {

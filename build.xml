@@ -121,6 +121,7 @@
             <fileset dir="${web_app_src}" includes="fileretriever.js"/>
             <fileset dir="${web_app_src}" includes="notify.js"/>
             <fileset dir="${web_app_src}" includes="splitter.js"/>
+            <fileset dir="${web_app_src}" includes="base64.js"/>
             <fileset dir="${web_app_src}" includes="app.js"/>
         </concat>
         <concat destfile="${web_app}/app.css">

@@ -12,7 +12,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  *
- * Copyright (c) 2011-2013 Jos de Jong, http://jsoneditoronline.org
+ * Copyright (c) 2011-2013 Jos de Jong, http://www.jsoneditoronline.cn
  *
  * @author  Jos de Jong, <wjosdejong@gmail.com>
  */

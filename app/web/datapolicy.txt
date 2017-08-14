@@ -1,6 +1,6 @@
 # JSON Editor online - Data policy
 
-http://jsoneditoronline.org
+http://www.jsoneditoronline.cn
 
 
 This file describes the data policy of JSON Editor Online. When using the

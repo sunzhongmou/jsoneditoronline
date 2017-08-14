@@ -1,6 +1,6 @@
 # JSON Editor Online - Changelog
 
-http://jsoneditoronline.org
+http://www.jsoneditoronline.cn
 
 
 ## 2013-03-11, version 2.1.1

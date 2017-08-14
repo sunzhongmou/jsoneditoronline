@@ -5,13 +5,13 @@
     "description": "JSON Editor is a tool to view, edit, and format JSON. It shows your data in an editable treeview and in a code editor.",
     "app": {
         "urls": [
-            "http://jsoneditoronline.org/",
-            "http://jsoneditoronline.org/index.html",
-            "http://jsoneditoronline.org/changelog.txt",
-            "http://jsoneditoronline.org/NOTICE"
+            "http://www.jsoneditoronline.cn/",
+            "http://www.jsoneditoronline.cn/index.html",
+            "http://www.jsoneditoronline.cn/changelog.txt",
+            "http://www.jsoneditoronline.cn/NOTICE"
         ],
         "launch": {
-            "web_url": "http://jsoneditoronline.org/"
+            "web_url": "http://www.jsoneditoronline.cn/"
         }
     },
     "icons": {
