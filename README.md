@@ -79,4 +79,4 @@ generated library and web application.
 
 Gif:
 
-![Gif JSON editor online](http://upload-images.jianshu.io/upload_images/2183193-a323380734f31fc9.gif?imageMogr2/auto-orient/strip)
+![Gif JSON editor online](json-demo.gif)
