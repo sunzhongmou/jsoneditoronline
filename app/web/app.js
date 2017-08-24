@@ -99,7 +99,7 @@ app.load = function() {
 
         var jsonPara = findGetParameter('data');
         if(jsonPara){
-            json = JSON.parse(base64.decode(jsonPara));
+          json = jsonpack.unpack(jsonPara);
         }
 
         // load url if query parameters contains a url
